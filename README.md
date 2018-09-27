@@ -1,4 +1,4 @@
-# Ура я программист
+###### Ура я программист
 euclideanDistance <- function(u, v){
   return(sqrt(sum((u - v)^2)))
 }
